@@ -7,6 +7,6 @@
         <link href="./styles/style.css" rel="stylesheet"/>
     </head>
     <body>
-        <h1 class="title"></h1>
+        <h1 class="title">Esto es una prueba</h1>
     </body>
 </html>
